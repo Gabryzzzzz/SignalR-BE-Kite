@@ -1,0 +1,11 @@
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\besignalr.exe
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\besignalr.dll
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\besignalr.deps.json
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\besignalr.runtimeconfig.json
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\besignalr.pdb
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Gabryzzzzz\SignaRLearning\BE.Net\besignalr\besignalr\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
